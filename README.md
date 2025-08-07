@@ -1,4 +1,4 @@
-# Semantic Segmentation Suite
+# Semantic Segmentation on Street-View Imagery
 
 ## Overview
 
