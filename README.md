@@ -95,12 +95,3 @@ This repository provides a comprehensive suite of experiments and demos for sema
 
 * Swap in new backbones (EfficientNet, MobileNet, etc.) or encoders.
 * Experiment with different loss functions or schedulers.
-* Integrate real‐time inference pipelines for deployment on edge devices.
-
-## Contributing
-
-Pull requests, bug reports, and feature suggestions are welcome. Please ensure code style consistency and document new functionality.
-
-## License
-
-This project is released under the MIT License. See `LICENSE` for details.
